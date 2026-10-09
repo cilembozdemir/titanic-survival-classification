@@ -1,0 +1,7 @@
+{
+  "rows": 891,
+  "selected_model": "Logistic regression",
+  "holdout_accuracy": 0.816,
+  "holdout_f1": 0.74,
+  "holdout_roc_auc": 0.85
+}

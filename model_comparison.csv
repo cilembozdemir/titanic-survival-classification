@@ -1,0 +1,4 @@
+model,mean_cv_roc_auc
+Logistic regression,0.856
+Decision tree,0.849
+Majority baseline,0.5
